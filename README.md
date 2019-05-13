@@ -7,17 +7,16 @@ This is the code repository for [Machine Learning for Data Mining](https://www.p
 **A practical guide to building intelligent financial applications using machine learning techniques**
 
 ## What is this book about?
-IBM SPSS Modeler allows users to quickly and efficiently use predictive analytics and gain insights from your data. With almost 25 years of history, Modeler is the most established and comprehensive Data Mining workbench available. Since it is popular in corporate settings, widely available in university settings, and highly compatible with all the latest technologies, it is the perfect way to start your Data Science and Machine Learning journey.
+If you are a data scientist, data analyst, and data mining professional and are keen to achieve a 30% higher salary by adding machine learning to your skillset, then this is the ideal book for you. You will learn to apply machine learning techniques to various data mining challenges. No prior knowledge of machine learning is assumed.
 
 This book covers the following exciting features:
-* Understand the basics of data mining and familiarize yourself with Modeler’s visual programming interface 
-* Import data into Modeler and learn how to properly declare metadata 
-* Obtain summary statistics and audit the quality of your data 
-* Prepare data for modeling by selecting and sorting cases, identifying and removing duplicates, combining data files, and modifying and creating fields 
-* Assess simple relationships using various statistical and graphing techniques 
-* Get an overview of the different types of models available in Modeler 
-* Build a decision tree model and assess its results 
-* Score new data and export predictions 
+* Hone your model-building skills and create the most accurate models
+* Understand how predictive machine learning models work
+* Prepare your data to acquire the best possible results
+* Combine models in order to suit the requirements of different types of data
+* Analyze single and multiple models and understand their combined results
+* Derive worthwhile insights from your data using histograms and graphs
+
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788830784) today!
 
