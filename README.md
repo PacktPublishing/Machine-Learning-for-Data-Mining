@@ -1,8 +1,8 @@
-# IBM SPSS Modeler Essentials
+# Machine Learning for Data Mining
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/ibm-spss-modeler-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781788291118 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B07759_cover.png" alt="IBM SPSS Modeler Essentials" height="256px" align="right"></a>
 
-This is the code repository for [IBM SPSS Modeler Essentials](https://www.packtpub.com/big-data-and-business-intelligence/ibm-spss-modeler-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781788291118 ), published by Packt.
+This is the code repository for [Machine Learning for Data Mining](https://www.packtpub.com/big-data-and-business-intelligence/ibm-spss-modeler-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781788291118 ), published by Packt.
 
 **A practical guide to building intelligent financial applications using machine learning techniques**
 
