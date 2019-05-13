@@ -1,6 +1,7 @@
 # Machine Learning for Data Mining
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-data-mining?utm_source=github&utm_medium=repositary&utm_campaign=9781838828974"><img src="https://www.packtpub.com/sites/default/files/9781838828974_cover_0.png" alt="IBM SPSS Modeler Essentials" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-data-mining?utm_source=github&utm_medium=repositary&utm_campaign=9781838828974"><img src="https://www.packtpub.com/sites/default/files/9781838828974_cover_0.png" alt="Machine Learning for Data Mining
+" height="256px" align="right"></a>
 
 This is the code repository for [Machine Learning for Data Mining](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-data-mining ), published by Packt.
 
