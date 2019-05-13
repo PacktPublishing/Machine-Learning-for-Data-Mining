@@ -46,8 +46,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Get to Know the Author
-**Jesus Salcedo**
-Jesus Salcedo has a PhD in psychometrics from Fordham University. He is an independent statistical consultant and has been using SPSS products for over 20 years. He is a former SPSS Curriculum Team Lead and Senior Education Specialist who has written numerous SPSS training courses and trained thousands of users.
+**Jesus Salcedo** has a PhD in psychometrics from Fordham University. He is an independent statistical consultant and has been using SPSS products for over 20 years. He is a former SPSS Curriculum Team Lead and Senior Education Specialist who has written numerous SPSS training courses and trained thousands of users.
 
 
 
