@@ -7,7 +7,8 @@ This is the code repository for [Machine Learning for Data Mining](https://www.p
 **A practical guide to building intelligent financial applications using machine learning techniques**
 
 ## What is this book about?
-If you are a data scientist, data analyst, and data mining professional and are keen to achieve a 30% higher salary by adding machine learning to your skillset, then this is the ideal book for you. You will learn to apply machine learning techniques to various data mining challenges. No prior knowledge of machine learning is assumed.
+Most data mining opportunities involve machine learning and often come with greater financial rewards. This book will help you bring the power of machine learning techniques into your data mining work. By the end of the book, you will be able to create accurate predictive models for data mining.	
+
 
 This book covers the following exciting features:
 * Hone your model-building skills and create the most accurate models
@@ -25,7 +26,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 
 **Following is what you need for this book:**
-This book is best suited for machine learning engineers, data engineers, and data scientists working in the finance industry who want to implement AI in their business applications. It will also help entrepreneurs, venture capitalists, investment bankers, and wealth managers to understand how AI can help them solve different problems related to finance. Experience in the financial markets or banking domain is required, and working knowledge of Python programming is a must.
+If you are a data scientist, data analyst, and data mining professional and are keen to achieve a 30% higher salary by adding machine learning to your skillset, then this is the ideal book for you. You will learn to apply machine learning techniques to various data mining challenges. No prior knowledge of machine learning is assumed.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-5).
 ### Software and Hardware List
