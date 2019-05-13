@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-data-mining"><img src="https://www.packtpub.com/sites/default/files/9781838828974_cover_0.png" alt="IBM SPSS Modeler Essentials" height="256px" align="right"></a>
 
-This is the code repository for [Machine Learning for Data Mining](https://www.packtpub.com/big-data-and-business-intelligence/ibm-spss-modeler-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781788291118 ), published by Packt.
+This is the code repository for [Machine Learning for Data Mining](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-data-mining ), published by Packt.
 
 **A practical guide to building intelligent financial applications using machine learning techniques**
 
