@@ -4,7 +4,7 @@
 
 This is the code repository for [Machine Learning for Data Mining](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-data-mining ), published by Packt.
 
-**A practical guide to building intelligent financial applications using machine learning techniques**
+**Improve your data mining capabilities with advanced predictive modeling**
 
 ## What is this book about?
 Most data mining opportunities involve machine learning and often come with greater financial rewards. This book will help you bring the power of machine learning techniques into your data mining work. By the end of the book, you will be able to create accurate predictive models for data mining.	
