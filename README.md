@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/machine-learning-for-data-mining/9781838828974)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1838828974).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Machine Learning for Data Mining
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-data-mining?utm_source=github&utm_medium=repositary&utm_campaign=9781838828974"><img src="https://www.packtpub.com/sites/default/files/9781838828974_cover_0.png" alt="Machine Learning for Data Mining
