@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B14701?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Machine Learning for Data Mining
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-data-mining?utm_source=github&utm_medium=repositary&utm_campaign=9781838828974"><img src="https://www.packtpub.com/sites/default/files/9781838828974_cover_0.png" alt="Machine Learning for Data Mining
